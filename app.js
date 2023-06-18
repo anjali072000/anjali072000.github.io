@@ -28,7 +28,6 @@ const showWeather = (data) => {
         </div>
     `
 }
-
 form.addEventListener(
     "submit",
     function(event) {
